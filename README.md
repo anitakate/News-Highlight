@@ -1,12 +1,15 @@
-<<<<<<< HEAD
-***NEWS-HIGHLIGHT
+### NEWS-HIGHLIGHT
 
-*** AUTHOR
-Catherine Nyambura Ndung'u
+### AUTHOR
 
-=======
-*** NEWS-HIGHLIGHT
+Built by : Catherine Nyambura Ndung'u
 
-*** AUTHOR
-Catherine Nyambura Ndung'u
->>>>>>> 74ebd4d3e0ac43d244e1decc2f8f3d124e0c6e74
+### DESCRIPTION
+
+This is an application where one can list and preview news article from sources .
+
+### TECHNOLOGIES USED
+
+Python3.6
+Bootstrap ,html ,css
+
